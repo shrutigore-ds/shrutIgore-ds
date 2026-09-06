@@ -298,6 +298,3 @@ Exploring portfolio construction and financial optimization through:
         │
         ▼
 📈 QUANTITATIVE FINANCE
-
-
-</div>
