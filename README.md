@@ -54,7 +54,7 @@
 
 💹 Exploring **Financial Data Science, Financial Analytics & Quantitative Finance**.
 
-🚀 My goal is to build technology-driven solutions for real-world business and financial problems.
+🚀 Interested in solving real-world business and financial problems using data.
 
 ---
 
@@ -75,12 +75,12 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
 ### 📊 Analytics & Visualization
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
 ### 🤖 Machine Learning
 
@@ -112,6 +112,7 @@
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
 
 ### 📊
@@ -126,7 +127,7 @@ Python • SQL • Power BI
 ### 🤖
 **Machine Learning**
 
-Scikit-learn • ML Models
+Scikit-learn • ML
 
 </td>
 
@@ -147,6 +148,7 @@ Markets • Risk • Returns
 Quantitative Analysis
 
 </td>
+
 </tr>
 </table>
 
@@ -160,22 +162,26 @@ Quantitative Analysis
 
 ## 🚀 FEATURED PROJECTS
 
+<i>Selected projects across Data Science, Business Analytics & Finance</i>
+
 </div>
+
+<br>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>📈 Stock Risk & Return Analysis</h3>
+<h3>📈 Stock Market Analysis</h3>
 
-Financial data analysis exploring:
+Analysis of stock market data to explore:
 
-- 📊 Stock returns
-- 📉 Risk
-- 📈 Volatility
-- 💹 Performance
-- 📊 Financial visualization
+- 📊 Price movements
+- 📈 Returns
+- 📉 Risk & volatility
+- 💹 Market performance
+- 📊 Financial trends
 
 **Tech Stack**
 
@@ -183,7 +189,7 @@ Financial data analysis exploring:
 
 <br>
 
-<a href="https://github.com/shrutigore-ds/stock-risk-return-analysis">
+<a href="https://github.com/shrutigore-ds">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -191,24 +197,24 @@ Financial data analysis exploring:
 
 <td width="50%" valign="top">
 
-<h3>🛒 E-Commerce Analytics</h3>
+<h3>👥 Customer Churn & Retention Analysis</h3>
 
-Business analysis focused on:
+Analyzing customer behaviour to understand:
 
-- 🛍️ Customer behaviour
-- 💰 Sales performance
-- 📦 Products
-- 🌎 Regional trends
-- 📊 Business insights
+- 👥 Customer segments
+- 📉 Churn patterns
+- 🔄 Retention
+- 💰 Customer value
+- 📊 Business drivers
 
 **Tech Stack**
 
-`Python` `SQL` `Excel` `Power BI`
+`Python` `SQL` `Pandas` `Power BI`
 
 <br>
 
 <a href="https://github.com/shrutigore-ds">
-<img src="https://img.shields.io/badge/COMING%20SOON-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -219,47 +225,48 @@ Business analysis focused on:
 
 <td width="50%" valign="top">
 
-<h3>📊 Sales & Revenue Analytics</h3>
+<h3>🚚 Supply Chain & Logistics Performance Analysis</h3>
 
-Business intelligence project exploring:
+Exploring supply chain and logistics performance through:
 
-- 💰 Revenue
-- 📈 Profitability
-- 📦 Product performance
+- 🚚 Delivery performance
+- 📦 Shipment analysis
+- ⏱️ Operational efficiency
 - 🌎 Regional performance
-- 📊 Sales trends
+- 📊 Logistics insights
 
 **Tech Stack**
 
-`SQL` `Python` `Excel` `Power BI`
+`Python` `SQL` `Excel` `Power BI`
 
 <br>
 
 <a href="https://github.com/shrutigore-ds">
-<img src="https://img.shields.io/badge/COMING%20SOON-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🤖 Machine Learning Projects</h3>
+<h3>💹 Financial Portfolio Optimization</h3>
 
-Practical ML projects exploring:
+Exploring portfolio construction and financial optimization through:
 
-- 🧠 Supervised Learning
-- ⚙️ Feature Engineering
-- 📊 Model Evaluation
-- 🔮 Predictive Analytics
+- 📊 Asset returns
+- ⚖️ Risk & return
+- 📈 Portfolio performance
+- 🧮 Optimization
+- 💰 Diversification
 
 **Tech Stack**
 
-`Python` `Scikit-learn`
+`Python` `Pandas` `NumPy` `Statistics`
 
 <br>
 
 <a href="https://github.com/shrutigore-ds">
-<img src="https://img.shields.io/badge/COMING%20SOON-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
