@@ -155,12 +155,11 @@ Statistics · Modelling
 
 ---
 
-<!-- =============== FEATURED PROJECTS =============== -->
 
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <p align="center">
-<i>Turning analytical concepts into practical projects.</i>
+  <i>Turning analytical concepts into practical projects.</i>
 </p>
 
 <table>
@@ -179,6 +178,8 @@ Exploratory analysis of supply chain delivery history.
 - Freight expenditure
 
 **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter
+
+<br/>
 
 <a href="https://github.com/shrutigore-ds/SCMS-Delivery-History-Supply-Chain-Data-Analysis">
 <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -199,8 +200,15 @@ Exploring financial market data and analytical techniques.
 
 **Tools:** Python · Pandas · NumPy · Matplotlib
 
+<br/>
+
+<a href="YOUR_STOCK_MARKET_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -215,6 +223,12 @@ Understanding customer behaviour and retention.
 - Customer value
 
 **Tools:** Python · SQL · Pandas · Power BI
+
+<br/>
+
+<a href="YOUR_CUSTOMER_CHURN_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -231,15 +245,19 @@ Exploring financial portfolio construction and optimization.
 
 **Tools:** Python · Pandas · NumPy · Statistics
 
+<br/>
+
+<a href="YOUR_PORTFOLIO_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </td>
 </tr>
 </table>
 
 <p align="center">
-<i>Other topics represent areas of exploration and planned project work.</i>
+<i>More projects coming soon...</i>
 </p>
-
----
 
 <!-- =============== LEARNING JOURNEY =============== -->
 
